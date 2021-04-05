@@ -46,9 +46,13 @@
         <toolbarItems1>
             formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify | numlist bullist outdent indent | removeformat
         </toolbarItems1>
-        <toolbarItems2></toolbarItems2>
+        <toolbarItems2>example</toolbarItems2>
         <toolbarItems3></toolbarItems3>
         <toolbarItems4></toolbarItems4>
+
+        <external_plugins>
+             <example><![CDATA[/studio/api/2/plugin/file?siteId=editorial&type=tinymce&name=example&filename=plugin.min.js]]></example> 
+        </external_plugins>
 
         <codeEditorWrap>false</codeEditorWrap>
     </setup>
