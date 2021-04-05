@@ -51,7 +51,7 @@
         <toolbarItems4></toolbarItems4>
 
         <external_plugins>
-             <example><![CDATA[/studio/api/2/plugin/file?siteId=editorial&type=tinymce&name=example&filename=plugin.min.js]]></example> 
+             <example><![CDATA[/studio/1/plugin/file?siteId=editorial&type=tinymce&name=example&filename=plugin.min.js]]></example> 
         </external_plugins>
 
         <codeEditorWrap>false</codeEditorWrap>
