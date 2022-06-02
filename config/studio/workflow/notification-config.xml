@@ -21,7 +21,7 @@
 
 -->
 <notificationConfig>
-   <version>2</version>
+   <version>3</version>
    <lang name="en">
 <!-- language specific notifications -->
       <deploymentFailureNotification>
