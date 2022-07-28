@@ -26,6 +26,8 @@
     <wem-project>editorial</wem-project>
     <display-name>editorial</display-name>
     <default-timezone>EST5EDT</default-timezone>
+  
+  <usePreview3>true</usePreview3>
 
     <!-- Site URLs. Default to http://localhost:8080 if blank -->
     <site-urls>
